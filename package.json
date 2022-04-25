@@ -1,0 +1,24 @@
+{
+  "name": "pixeldesign",
+  "version": "1.0.0",
+  "description": "Game based on Pixel War system (r/place)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WolfyzDev/PixelDesign.git"
+  },
+  "keywords": [],
+  "author": "WolfyzDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WolfyzDev/PixelDesign/issues"
+  },
+  "homepage": "https://github.com/WolfyzDev/PixelDesign#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^4.5.0"
+  }
+}
